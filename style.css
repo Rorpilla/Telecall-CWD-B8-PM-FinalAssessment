@@ -1,0 +1,122 @@
+.main-header {
+    background: url(../Images/img38.jpg);
+    min-height: 600px;
+    background-size: cover;
+    background-position: bottom;
+    color: #fff
+}
+
+.main-header-shop {
+    background: url(../Images/cover.jpg);
+    min-height: 600px;
+    background-size: cover;
+    background-position: center;
+    color: #fff
+}
+
+.main-header-signup {
+    background: url(../Images/img33.jpg);
+    min-height: 600px;
+    background-size: cover;
+    background-position: center;
+    color: #fff
+}
+
+.schedule-visit {
+    background: url(../Images/sidenav.jpg);
+    position: relative;
+    min-height: 600px;
+    background-size: cover;
+    background-position: center;
+    color: #fff
+}
+
+.main-header .showcase {
+    padding-top: 50px;
+}
+
+.main-header-shop .showcase {
+    padding-top: 50px;
+}
+
+.main-header-signup .showcase {
+    padding-top: 50px;
+}
+
+.section-developers {
+    position: relative;
+    background: url(../Images/img16.jpg);
+    background-size: cover;
+    background-position: center; 
+    min-height: 180px;
+}
+
+.home-developers {
+    position: relative;
+    background: url(../Images/imgcover1.jpg);
+    background-size: cover;
+    background-position: center; 
+    min-height: 280px;
+}
+
+.section-bottom {
+    position: relative;
+    background: url(../Images/img22.jpg);
+    background-size: cover;
+    background-position: center; 
+    min-height: 180px;
+}
+
+.primary-overlay {
+    background: rgba(112, 81, 176, 0.5);
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.secondary-overlay {
+    background: rgba(204, 105, 163, 0.2);
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.home-overlay {
+    background: rgba(176, 81, 119, 0.5);
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.btn-extend {
+    display: block;
+    width: 100%
+}
+
+ .nav-style {
+    font-family: "Arial";
+    /* font-weight: bold; */
+    /* font-size: 40px; */
+ }
+
+ .showcase-style {
+    font-family: "Times New Roman", Times, serif;
+    /* font-size: 30px; */
+    text-shadow: 3px 3px 3px #ababab;
+ }
+
+ .box {
+    /* height: 350px; */
+    border: 3px solid rgb(128, 0, 55);
+    padding: 10px;
+    margin: 10px;
+  }
+
+  .underline {
+    text-decoration-line: underline;
+  }
